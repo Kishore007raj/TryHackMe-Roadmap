@@ -91,7 +91,7 @@ If you appreciate this repository and want to show your support, you can do so t
 | **[Introductory Rooms](#intro-rooms)**           |     21       |           11                |
 | **[Linux Fundamentals](#linux-fundamentals)**    |      4       |            2                |
 | **[Windows Fundamentals](#windows-fundamentals)**|      3       |            3                |
-| **[Basic Rooms](#basics-rooms)**                 |     14       |            1                |
+| **[Basic Rooms](#basics-rooms)**                 |     14       |            2                |
 | **[Reconnaissance](#recon)**                     |     10       |            2                |
 | **[Scripting](#scripting)**                      |      7       |            0                |
 | **[Networking](#networking)**                    |      7       |            1                |
@@ -116,7 +116,7 @@ If you appreciate this repository and want to show your support, you can do so t
 | **[Insane CTF](#insane-ctf)**                    |      1       |            0                |
 | **[Misc](#misc)**                                |     43       |            0                |
 | **[Special Events](#special-events)**            |     12       |            0                |
-| **Total Rooms:**                                 |    **= 502** |          **= 25**           |
+| **Total Rooms:**                                 |    **= 502** |          **= 26**           |
 
 ---
 
@@ -243,7 +243,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 ## Basics Rooms
 
-- [ ] [🕵️ TryHackMe | Hypervisor Internals](https://tryhackme.com/room/hypervisorinternals)
+- [x] [🕵️ TryHackMe | Hypervisor Internals](https://tryhackme.com/room/hypervisorinternals)
   
 - [ ] [🕵️ TryHackMe | Splunk: Exploring SPL](https://tryhackme.com/room/splunkexploringspl)
 
