@@ -88,13 +88,13 @@ If you appreciate this repository and want to show your support, you can do so t
 
 | 🔐 **Category**                                  | 🔢 **Rooms** | 🔒 **Rooms Completed by Me** |
 | ------------------------------------------------ |:------------:|:---------------------------:|
-| **[Introductory Rooms](#intro-rooms)**           |     21       |            0                |
-| **[Linux Fundamentals](#linux-fundamentals)**    |      4       |            0                |
-| **[Windows Fundamentals](#windows-fundamentals)**|      3       |            0                |
-| **[Basic Rooms](#basics-rooms)**                 |     14       |            0                |
-| **[Reconnaissance](#recon)**                     |     10       |            0                |
+| **[Introductory Rooms](#intro-rooms)**           |     21       |           11                |
+| **[Linux Fundamentals](#linux-fundamentals)**    |      4       |            2                |
+| **[Windows Fundamentals](#windows-fundamentals)**|      3       |            3                |
+| **[Basic Rooms](#basics-rooms)**                 |     14       |            1                |
+| **[Reconnaissance](#recon)**                     |     10       |            2                |
 | **[Scripting](#scripting)**                      |      7       |            0                |
-| **[Networking](#networking)**                    |      7       |            0                |
+| **[Networking](#networking)**                    |      7       |            1                |
 | **[Tooling](#tooling)**                          |     18       |            0                |
 | **[Container Security](#container-security)**    |     3        |            0                |
 | **[Cryptography & Hashes](#cryptography--hashes)**|      7      |            0                |
@@ -110,7 +110,7 @@ If you appreciate this repository and want to show your support, you can do so t
 | **[Active Directory](#active-directory)**        |      8       |            0                |
 | **[PCAP Analysis](#pcap-analysis)**              |      4       |            0                |
 | **[Buffer Overflow](#bufferoverflow)**           |      4       |            0                |
-| **[Easy CTF](#easy-ctf)**                        |     98       |            0                |
+| **[Easy CTF](#easy-ctf)**                        |     98       |            6                |
 | **[Medium CTF](#medium-ctf)**                    |     99       |            0                |
 | **[Hard CTF](#hard-ctf)**                        |     42       |            0                |
 | **[Insane CTF](#insane-ctf)**                    |      1       |            0                |
@@ -421,7 +421,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | SSRF](https://tryhackme.com/room/ssrfhr)
 
-- [x] [🕵️ TryHackMe | OWASP Broken Access Control](https://tryhackme.com/room/owaspbrokenaccesscontrol)
+- [ ] [🕵️ TryHackMe | OWASP Broken Access Control](https://tryhackme.com/room/owaspbrokenaccesscontrol)
 
 - [ ] [🕵️ TryHackMe | HTTP in detail](https://tryhackme.com/room/webfundamentals)
 
@@ -555,7 +555,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Linux Privilege Escalation](https://tryhackme.com/room/linprivesc)
   
-- [x] [🕵️ TryHackMe | Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)
+- [ ] [🕵️ TryHackMe | Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)
   
 - [ ] [🕵️ TryHackMe | Linux PrivEsc Arena](https://tryhackme.com/room/linuxprivescarena)
   
@@ -657,9 +657,9 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Eviction](https://tryhackme.com/room/eviction)
 
-- [x] [🕵️ TryHackMe | Become a Hacker](https://tryhackme.com/room/becomeahackeroa)
+- [ ] [🕵️ TryHackMe | Become a Hacker](https://tryhackme.com/room/becomeahackeroa)
 
-- [x] [🕵️ TryHackMe | W1seGuy](https://tryhackme.com/room/w1seguy)
+- [ ] [🕵️ TryHackMe | W1seGuy](https://tryhackme.com/room/w1seguy)
   
 - [ ] [🕵️ TryHackMe | mKingdom](https://tryhackme.com/room/mkingdom)
 
@@ -735,7 +735,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
 
-- [ ] [🕵️ TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
+- [x] [🕵️ TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
 
 - [ ] [🕵️ TryHackMe | Library](https://tryhackme.com/room/bsidesgtlibrary)
 
