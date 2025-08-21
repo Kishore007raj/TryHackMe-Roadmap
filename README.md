@@ -110,13 +110,13 @@ If you appreciate this repository and want to show your support, you can do so t
 | **[Active Directory](#active-directory)**        |      8       |            0                |
 | **[PCAP Analysis](#pcap-analysis)**              |      4       |            0                |
 | **[Buffer Overflow](#bufferoverflow)**           |      4       |            0                |
-| **[Easy CTF](#easy-ctf)**                        |     98       |            5                |
+| **[Easy CTF](#easy-ctf)**                        |     98       |            6                |
 | **[Medium CTF](#medium-ctf)**                    |     99       |            0                |
 | **[Hard CTF](#hard-ctf)**                        |     42       |            0                |
 | **[Insane CTF](#insane-ctf)**                    |      1       |            0                |
 | **[Misc](#misc)**                                |     43       |            0                |
 | **[Special Events](#special-events)**            |     12       |            0                |
-| **Total Rooms:**                                 |    **= 502** |          **= 26**           |
+| **Total Rooms:**                                 |    **= 502** |          **= 27**           |
 
 ---
 
@@ -733,7 +733,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | AttackerKB](https://tryhackme.com/room/attackerkb)
 
-- [ ] [🕵️ TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
+- [x] [🕵️ TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
 
 - [x] [🕵️ TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
 
