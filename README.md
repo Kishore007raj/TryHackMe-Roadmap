@@ -101,7 +101,7 @@ If you appreciate this repository and want to show your support, you can do so t
 | **[Steganography](#steganography)**              |      6       |            0                |
 | **[Web](#web)**                                  |     33       |            0                |
 | **[Android](#android)**                          |      1       |            0                |
-| **[Forensics](#forensics)**                      |     17       |            0                |
+| **[Forensics](#forensics)**                      |     17       |            1                |
 | **[Wifi Hacking](#wi-fi-hacking)**               |      1       |            0                |
 | **[Reverse Engineering](#reverse-engineering)**  |     9        |            0                |
 | **[Malware Analysis](#malware-analysis)**        |      8       |            0                |
@@ -116,7 +116,7 @@ If you appreciate this repository and want to show your support, you can do so t
 | **[Insane CTF](#insane-ctf)**                    |      1       |            0                |
 | **[Misc](#misc)**                                |     43       |            0                |
 | **[Special Events](#special-events)**            |     12       |            0                |
-| **Total Rooms:**                                 |    **= 502** |          **= 28**           |
+| **Total Rooms:**                                 |    **= 502** |          **= 29**           |
 
 ---
 
@@ -493,7 +493,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Servidae: Log Analysis in ELK](https://tryhackme.com/room/servidae)
 
-- [ ] [🕵️ TryHackMe | Cyber Kill Chain](https://tryhackme.com/room/cyberkillchainzmt)
+- [x] [🕵️ TryHackMe | Cyber Kill Chain](https://tryhackme.com/room/cyberkillchainzmt)
 
 - [ ] [🕵️ TryHackMe | Identification & Scoping](https://tryhackme.com/room/identificationandscoping)
 
