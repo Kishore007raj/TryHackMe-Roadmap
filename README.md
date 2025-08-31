@@ -97,11 +97,11 @@ If you appreciate this repository and want to show your support, you can do so t
 | **[Networking](#networking)**                    |      7       |            1                |
 | **[Tooling](#tooling)**                          |     18       |            0                |
 | **[Container Security](#container-security)**    |     3        |            0                |
-| **[Cryptography & Hashes](#cryptography--hashes)**|      7      |            0                |
+| **[Cryptography & Hashes](#cryptography--hashes)**|      7      |            1                |
 | **[Steganography](#steganography)**              |      6       |            0                |
 | **[Web](#web)**                                  |     33       |            0                |
 | **[Android](#android)**                          |      1       |            0                |
-| **[Forensics](#forensics)**                      |     17       |            2                |
+| **[Forensics](#forensics)**                      |     17       |            3                |
 | **[Wifi Hacking](#wi-fi-hacking)**               |      1       |            0                |
 | **[Reverse Engineering](#reverse-engineering)**  |     9        |            0                |
 | **[Malware Analysis](#malware-analysis)**        |      8       |            0                |
@@ -110,13 +110,13 @@ If you appreciate this repository and want to show your support, you can do so t
 | **[Active Directory](#active-directory)**        |      8       |            0                |
 | **[PCAP Analysis](#pcap-analysis)**              |      4       |            0                |
 | **[Buffer Overflow](#bufferoverflow)**           |      4       |            0                |
-| **[Easy CTF](#easy-ctf)**                        |     98       |            5                |
+| **[Easy CTF](#easy-ctf)**                        |     98       |            8                |
 | **[Medium CTF](#medium-ctf)**                    |     99       |            0                |
 | **[Hard CTF](#hard-ctf)**                        |     42       |            0                |
 | **[Insane CTF](#insane-ctf)**                    |      1       |            0                |
 | **[Misc](#misc)**                                |     43       |            0                |
 | **[Special Events](#special-events)**            |     12       |            0                |
-| **Total Rooms:**                                 |    **= 502** |          **= 30**           |
+| **Total Rooms:**                                 |    **= 502** |          **= 36**           |
 
 ---
 
@@ -377,7 +377,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
 
-- [ ] [🕵️ TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
+- [x] [🕵️ TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
 
 - [ ] [🕵️ TryHackMe | Crack The Hash Level 2](https://tryhackme.com/room/crackthehashlevel2)
 
@@ -507,7 +507,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Volatility](https://tryhackme.com/room/bpvolatility)
 
-- [ ] [🕵️ TryHackMe | Disk Analysis &amp; Autopsy](https://tryhackme.com/room/autopsy2ze0)
+- [x] [🕵️ TryHackMe | Disk Analysis &amp; Autopsy](https://tryhackme.com/room/autopsy2ze0)
 
 ## Wi-Fi Hacking
 
@@ -585,7 +585,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
   
 - [ ] [🕵️ TryHackMe | Registry Persistence Detection](https://tryhackme.com/room/registrypersistencedetection)
   
-- [ ] [🕵️ TryHackMe | Investigating Windows](https://tryhackme.com/room/investigatingwindows)
+- [x] [🕵️ TryHackMe | Investigating Windows](https://tryhackme.com/room/investigatingwindows)
   
 - [ ] [🕵️ TryHackMe | Investigating Windows 2.0](https://tryhackme.com/room/investigatingwindows2)
   
@@ -656,6 +656,8 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 - [ ] [🕵️ TryHackMe | Publisher](https://tryhackme.com/room/publisher)
 
 - [ ] [🕵️ TryHackMe | Eviction](https://tryhackme.com/room/eviction)
+
+- [x] [🕵️ TryHackMe | Light](https://tryhackme.com/room/lightroom)
 
 - [ ] [🕵️ TryHackMe | Become a Hacker](https://tryhackme.com/room/becomeahackeroa)
 
@@ -731,6 +733,8 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | RootMe](https://tryhackme.com/room/rrootme)
 
+- [x] [🕵️ TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
+
 - [ ] [🕵️ TryHackMe | AttackerKB](https://tryhackme.com/room/attackerkb)
 
 - [x] [🕵️ TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
@@ -745,7 +749,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | LazyAdmin](https://tryhackme.com/room/lazyadmin)
 
-- [ ] [🕵️ TryHackMe | Anonforce](https://tryhackme.com/room/bsidesgtanonforce)
+- [x] [🕵️ TryHackMe | Anonforce](https://tryhackme.com/room/bsidesgtanonforce)
 
 - [ ] [🕵️ TryHackMe | Ignite](https://tryhackme.com/room/ignite)
 
